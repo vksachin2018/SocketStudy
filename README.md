@@ -93,13 +93,15 @@ while True:
 ## output
 
 # client
+![EX 1 DIA](https://github.com/user-attachments/assets/b2ae1c3c-03bb-4350-afc8-7705de2a57c6)
 
-![DAIG 1 EX 1A](https://github.com/user-attachments/assets/4087ef93-8adc-44ef-b41e-52415a303981)
+
 
 
 
 # server
-![EX 1 DIA](https://github.com/user-attachments/assets/b2ae1c3c-03bb-4350-afc8-7705de2a57c6)
+![DAIG 1 EX 1A](https://github.com/user-attachments/assets/4087ef93-8adc-44ef-b41e-52415a303981)
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
