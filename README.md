@@ -1,7 +1,7 @@
 # Ex.No:1a  			Study of Socket Programming
 
 # NAME  GOKUL SACHIN K
-# REG NO 2122232200025
+# REG NO 212223220025
 
 
 ## Aim: 
